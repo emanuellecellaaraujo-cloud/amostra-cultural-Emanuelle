@@ -56,4 +56,4 @@ atividade-python-pratica/
 
 ## 👤 Autor
 
-* **[Seu Nome Completo]** - *Desenvolvimento e Documentação*
+Emanuelle Cella de Araujo - *Desenvolvimento e Documentação*
